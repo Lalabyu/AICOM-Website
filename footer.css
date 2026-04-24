@@ -20,6 +20,13 @@
   box-shadow: 0 6px 32px 0 rgba(0, 0, 0, 0.06), 0 0.5px 0 #36d6cc;
 }
 
+.site-footer .footer-nav a {
+  font-family: "Times New Roman", Times, serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+}
+
 .footer-main {
   max-width: 900px;
   margin: 0 auto;
